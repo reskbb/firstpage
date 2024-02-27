@@ -1,0 +1,17 @@
+body{
+    color : blue;
+    background-image: url(blue-aesthetic-moon-df8850p673zj275y.jpg);
+    background-position: top;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+h1{
+    text-align: center;
+    background-color: aquamarine;
+    
+}
+.border{
+    border :5px white solid;
+}
